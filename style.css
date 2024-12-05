@@ -168,12 +168,6 @@ div.video > iframe {
     height: 90%;
 }
 
-div{
-    background-color: #195935;
-    padding: 20px 10px;
-    width: 800px;
-    margin: auto;
-}
 
 aside {
     background-color: var(--cor1);
